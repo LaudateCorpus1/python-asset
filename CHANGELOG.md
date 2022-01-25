@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-asset/#history
 
+## [3.8.0](https://github.com/googleapis/python-asset/compare/v3.7.1...v3.8.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#361](https://github.com/googleapis/python-asset/issues/361)) ([6d03a57](https://github.com/googleapis/python-asset/commit/6d03a57e37387342c047ca76f9e6c15941390ad6))
+
 ### [3.7.1](https://www.github.com/googleapis/python-asset/compare/v3.7.0...v3.7.1) (2021-11-02)
 
 
